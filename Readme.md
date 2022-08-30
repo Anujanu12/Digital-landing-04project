@@ -13,4 +13,4 @@ Live Preview
 
 # image
 
-![image](4.png)
+![image](./thumbnail.png)
