@@ -14,3 +14,7 @@ Live Preview
 # image
 
 ![image](./thumbnail.png)
+
+# Demo |Netlify
+
+https://digital-markiting-project-4.netlify.app
