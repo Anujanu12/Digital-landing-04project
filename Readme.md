@@ -17,4 +17,4 @@ Live Preview
 
 # Demo |Netlify
 
-https://digital-markiting-project-4.netlify.app
+https://digital-landing-04project-s3ap.vercel.app/
